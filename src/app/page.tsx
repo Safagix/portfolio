@@ -5,7 +5,6 @@ import { LangToggle } from "@/components/LangToggle";
 import { HeroSection } from "@/components/HeroSection";
 import { AboutSection } from "@/components/AboutSection";
 import { StackSection } from "@/components/StackSection";
-import { ProjectsSection } from "@/components/ProjectsSection";
 import { ProcessSection } from "@/components/ProcessSection";
 import { ProofSection } from "@/components/ProofSection";
 import { NotesSection } from "@/components/NotesSection";
@@ -19,7 +18,6 @@ export default function Home() {
         <HeroSection />
         <AboutSection />
         <StackSection />
-        <ProjectsSection />
         <ProcessSection />
         <ProofSection />
         <NotesSection />
