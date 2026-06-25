@@ -4,9 +4,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "safagix | AI Agent Builder",
   description: "I build agents, apps, and automations that ship to production in days, not months.",
-  icons: {
-    icon: "/icon.svg",
-  },
   openGraph: {
     title: "safagix | AI Agent Builder",
     description: "I build agents, apps, and automations that ship to production in days, not months.",
